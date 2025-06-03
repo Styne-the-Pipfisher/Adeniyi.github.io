@@ -1,4 +1,4 @@
-# Adeniyi.github.io
+# Adeniyi's Portfolio
 
 ## Project
 ### Project 1
